@@ -12,6 +12,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/open-source-blue.svg" alt="op">
 </p>
+<p align="center">
+    <img src="https://img.shields.io/aur/license/yaourt.svg" alt="lm">
+</p>
 <br>
 
 
@@ -25,7 +28,7 @@ Releases of *NoEye* can be found [here](https://www.unknowncheats.me/forum/anti-
 
 ## License
 
-<img src="https://img.shields.io/aur/license/yaourt.svg" alt="op">
+*NoEye* is licensed under GPLv3, which means you can freely distribute and/or modify the source of *NoEye*.
 
 ## Credits
 
