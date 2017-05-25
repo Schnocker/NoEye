@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/aur/license/yaourt.svg" alt="lm">
 </p>
 
+![screenshot](http://i.imgur.com/iZrUkIf.png)
 
 ## Compiling
 
