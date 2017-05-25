@@ -26,7 +26,7 @@ Releases of *NoEye* can be found [here](https://www.unknowncheats.me/forum/anti-
 
 ## License
 
-*NoEye* is licensed under GPLv3, which means you can freely distribute and/or modify the source of *NoEye*.
+*NoEye* is licensed under GPLv2, which means you can freely distribute and/or modify the source of *NoEye*.
 
 ## Credits
 
