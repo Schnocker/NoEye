@@ -120,8 +120,6 @@ namespace BE
 				BYTE ID;
 				BYTE Data[256];
 			}BATTLEYE_DATA, *PBATTLEYE_DATA;
-			_MEMORY_BASIC_INFORMATION mbi = { 0,0,0,0,0,0,0 };
-			DWORD Old = 0;
 			PBATTLEYE_DATA Packet = reinterpret_cast<PBATTLEYE_DATA>(Buffer);
 			for (auto Handle : fIOs)
 			{
