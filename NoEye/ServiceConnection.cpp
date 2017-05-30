@@ -106,7 +106,6 @@ namespace BE
 						dwProcessId = *reinterpret_cast<DWORD*>(reinterpret_cast<DWORD_PTR>(Buffer) + 1);
 					}
 				}
-				return Status;
 			}
 
 			return Status;
