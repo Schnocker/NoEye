@@ -12,6 +12,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/open-source-blue.svg" alt="op">
     <img src="https://img.shields.io/aur/license/yaourt.svg" alt="lm">
+    <img src="https://img.shields.io/badge/donate-bitcoin-orange.svg" alt="dt">
 </p>
 
 ![screenshot](http://i.imgur.com/iZrUkIf.png)
