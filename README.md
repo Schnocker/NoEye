@@ -3,7 +3,7 @@
   <br>
   <a href="https://www.unknowncheats.me/forum/anti-cheat-bypass/214556-noeye-rootkit-bypass.html"><img src="http://i.imgur.com/2ZsamaC.png" alt="logo" width="200"></a>
   <br>
-  NoEye
+  NoEye (will be updated in the coming weeks/months)
   <br>
 </h1>
 
